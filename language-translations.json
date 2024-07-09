@@ -1,0 +1,88 @@
+{
+  "en": {
+    "title": "ROZN - Leading Israeli Multi-Project Enterprise",
+    "description": "ROZN is a well-established Israeli company specializing in real estate, import of goods, and entrepreneurship. Discover our innovative projects and services.",
+    "keywords": "ROZN, Israeli company, real estate, import, entrepreneurship, multi-project enterprise",
+    "nav": {
+      "about": "About",
+      "projects": "Projects",
+      "contact": "Contact"
+    },
+    "hero": {
+      "title": "ROZN",
+      "subtitle": "Innovating Across Industries in Israel"
+    },
+    "about": {
+      "title": "About ROZN",
+      "content": "ROZN is a well-established Israeli company with a diverse portfolio of successful ventures. Our expertise spans multiple industries, including real estate and import of goods. With years of experience and a commitment to excellence, we continue to grow and innovate in the global market."
+    },
+    "projects": {
+      "title": "Our Projects",
+      "realEstate": {
+        "title": "Real Estate",
+        "description": "Developing prime properties across Israel and beyond."
+      },
+      "import": {
+        "title": "Import",
+        "description": "Bringing quality goods to the Israeli market from around the world."
+      },
+      "entrepreneurship": {
+        "title": "Entrepreneurship",
+        "description": "Investing in and nurturing innovative startups and business ideas."
+      }
+    },
+    "contact": {
+      "title": "Contact Us",
+      "name": "Your Name",
+      "email": "Your Email",
+      "message": "Your Message",
+      "send": "Send Message"
+    },
+    "footer": {
+      "copyright": "© 2024 ROZN. All rights reserved."
+    }
+  },
+  "he": {
+    "title": "ROZN - חברה ישראלית מובילה במגוון פרויקטים",
+    "description": "ROZN היא חברה ישראלית מבוססת המתמחה בנדל\"ן, יבוא סחורות ויזמות. גלו את הפרויקטים והשירותים החדשניים שלנו.",
+    "keywords": "ROZN, חברה ישראלית, נדל\"ן, יבוא, יזמות, מיזם רב-תחומי",
+    "nav": {
+      "about": "אודות",
+      "projects": "פרויקטים",
+      "contact": "צור קשר"
+    },
+    "hero": {
+      "title": "ROZN",
+      "subtitle": "חדשנות בתעשיות בישראל"
+    },
+    "about": {
+      "title": "אודות ROZN",
+      "content": "ROZN היא חברה ישראלית מבוססת עם תיק השקעות מגוון של מיזמים מצליחים. המומחיות שלנו משתרעת על פני מספר תעשיות, כולל נדל\"ן ויבוא סחורות. עם שנים של ניסיון ומחויבות למצוינות, אנו ממשיכים לצמוח ולחדש בשוק הגלובלי."
+    },
+    "projects": {
+      "title": "הפרויקטים שלנו",
+      "realEstate": {
+        "title": "נדל\"ן",
+        "description": "פיתוח נכסים מובילים בישראל ומעבר לה."
+      },
+      "import": {
+        "title": "יבוא",
+        "description": "הבאת סחורות איכותיות לשוק הישראלי מרחבי העולם."
+      },
+      "entrepreneurship": {
+        "title": "יזמות",
+        "description": "השקעה וטיפוח של סטארטאפים ורעיונות עסקיים חדשניים."
+      }
+    },
+    "contact": {
+      "title": "צור קשר",
+      "name": "שמך",
+      "email": "האימייל שלך",
+      "message": "ההודעה שלך",
+      "send": "שלח הודעה"
+    },
+    "footer": {
+      "copyright": "© 2024 ROZN. כל הזכויות שמורות."
+    }
+  }
+}
