@@ -3,12 +3,21 @@
     "languageName": "En",
     "languageCode": "en",
     "contentDir": "english",
-    "weight": 1
+    "weight": 1,
+    "rtl": false
   },
   {
     "languageName": "Fr",
     "languageCode": "fr",
     "contentDir": "french",
-    "weight": 2
+    "weight": 2,
+    "rtl": false
+  },
+  {
+    "languageName": "He",
+    "languageCode": "he",
+    "contentDir": "Hebrew",
+    "weight": 3,
+    "rtl": true
   }
 ]
