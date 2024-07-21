@@ -25,7 +25,7 @@ const Testimonials = ({ data }: { data: PageData }) => {
         <section className="section">
           <div className="container">
             <div className="row">
-              <div className="mx-auto mb-12 text-center md:col-10 lg:col-8 xl:col-6">
+className={`mx-auto mb-12 ${lang === "he" ? "text-right" : "text-center"} md:col-10 lg:col-8 xl:col-6`}
                 <h2
                   dangerouslySetInnerHTML={markdownify(data.frontmatter.title)}
                   className="mb-4"

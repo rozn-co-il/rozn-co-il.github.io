@@ -7,7 +7,7 @@ import Link from "next/link";
 const AuthorCard = ({ data, lang }: { data: any; lang: string }) => {
   const { title, image, social } = data.frontmatter;
   return (
-    <div className="rounded bg-theme-light p-8 text-center dark:bg-darkmode-theme-light">
+className={`rounded bg-theme-light p-8 ${lang === "he" ? "text-right" : "text-center"} dark:bg-darkmode-theme-light`}
       {image && (
         <ImageFallback
           className="mx-auto mb-6 rounded"
