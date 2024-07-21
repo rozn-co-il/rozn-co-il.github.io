@@ -18,14 +18,14 @@ interface PageData {
   };
 }
 
-const Testimonials = ({ data }: { data: PageData }) => {
+const Testimonials = ({ lang, data }: {lang: string, data: PageData }) => {
   return (
     <>
       {data.frontmatter.enable && (
         <section className="section">
           <div className="container">
             <div className="row">
-className={`mx-auto mb-12 ${lang === "he" ? "text-right" : "text-center"} md:col-10 lg:col-8 xl:col-6`}
+<div className={`mx-auto mb-12 ${lang === "he" ? "text-right" : "text-center"} md:col-10 lg:col-8 xl:col-6`} >
                 <h2
                   dangerouslySetInnerHTML={markdownify(data.frontmatter.title)}
                   className="mb-4"

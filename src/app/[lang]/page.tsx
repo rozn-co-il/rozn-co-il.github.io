@@ -142,7 +142,7 @@ const Home = ({ params }: { params: { lang: string } }) => {
         </section>
       ))}
 
-      <Testimonials data={testimonial} />
+      <Testimonials lang={lang} data={testimonial} />
       <CallToAction data={callToAction} />
     </>
   );

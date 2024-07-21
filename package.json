@@ -6,7 +6,7 @@
   "license": "MIT",
   "packageManager": "yarn@1.22.19",
   "scripts": {
-    "dev": "yarn generate-json && next dev",
+    "dev": "yarn generate-json && next dev -p 8080",
     "build": "yarn generate-json && next build",
     "preview": "next start",
     "postbuild": "next-sitemap",
