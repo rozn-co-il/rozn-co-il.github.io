@@ -18,7 +18,7 @@ const Footer = ({
 }) => {
   const { copyright } = config.params;
 
-    const isRtl = lang === 'ar';
+  const isRtl = lang === 'ar';
 
   return (
       <footer className={`bg-theme-light dark:bg-darkmode-theme-light ${isRtl && "rtl"}`}>
