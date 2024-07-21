@@ -57,3 +57,15 @@ code {
 blockquote > p {
   @apply my-0 #{!important};
 }
+
+.rtl {
+  @apply text-right;
+}
+
+.rtl .navbar {
+  @apply flex-row-reverse;
+}
+
+.rtl .nav-dropdown-list {
+  @apply right-0 left-auto;
+}
